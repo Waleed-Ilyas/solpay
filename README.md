@@ -8,9 +8,13 @@
 
 Create a payment link for **SOL or USDC**, show the QR code, and watch it confirm on Solana devnet within seconds. A merchant dashboard lists every link with its status, totals and transaction.
 
-**Live demo:** LIVE_URL · **Personal project.** Devnet only: nothing here has value and no mainnet payment is ever created.
+**Live demo:** https://solpay-sable-five.vercel.app · **Personal project.** Devnet only: nothing here has value and no mainnet payment is ever created.
 
 ![Payment page with QR code](docs/pay-waiting.png)
+
+![Paid state](docs/pay-paid.png)
+
+![Merchant dashboard](docs/dashboard.png)
 
 ## Demo accounts
 
